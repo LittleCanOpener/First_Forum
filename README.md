@@ -11,7 +11,7 @@
         <li>Note: The backend (API) requires local hosting with ASP.NET Core and cannot be deployed via GitHub Pages. Follow "Run Locally" instructions for the full experience.</li>
     </ul>
     <hr>
-    <h2><a href="#" target="_blank">Live Preview (Frontend Only)</a></h2>
+    <h2><a href="https://littlecanopener.github.io/First_Forum/frontend/index.html" target="_blank">Live Preview (Frontend Only)</a></h2>
     <hr>
 <h1>Run Locally</h1>
     <p>Follow these steps to set up and run the First Forum project locally on your machine:</p>
