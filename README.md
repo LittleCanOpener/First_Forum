@@ -53,7 +53,7 @@
     <hr>
 <h3>Visual Studio</h3>
     <p>
-        <img src="./assets/images/icons/visualstudio.png" width="50px" height="50px" alt="Visual Studio Icon"><br>
+        <img src="./assets/images/icons/VisualStudio.png" width="50px" height="50px" alt="Visual Studio Icon"><br>
         <a href="https://visualstudio.microsoft.com/" target="_blank">Visual Studio</a> was used as the primary IDE for developing the ASP.NET Core backend.
     </p>
 <h4>How to Use Visual Studio</h4>
@@ -67,7 +67,7 @@
     <hr>
 <h3>Visual Studio Code</h3>
     <p>
-        <img src="./assets/images/icons/vscode.png" width="50px" height="50px" alt="VS Code Icon"><br>
+        <img src="./assets/images/icons/VSCode.png" width="50px" height="50px" alt="VS Code Icon"><br>
         <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> was used to edit and manage the frontend files.
     </p>
 <h4>How to Use Visual Studio Code</h4>
