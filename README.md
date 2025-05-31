@@ -1,6 +1,4 @@
 <h1>First Forum - NTV 2025 Final Project </h1>
-    <img src="#" width="100%" height="auto" alt="Responsive Design Screenshot">
-
 <h1>Deployment</h1>
     <ul>
         <h2>Using GitHub Pages (Frontend Only)</h2>
@@ -15,7 +13,6 @@
     <hr>
     <h2><a href="#" target="_blank">Live Preview (Frontend Only)</a></h2>
     <hr>
-
 <h1>Run Locally</h1>
     <p>Follow these steps to set up and run the First Forum project locally on your machine:</p>
     <ul>
@@ -40,16 +37,16 @@
         <li>Test the application by signing up (e.g., with email <code>user33@example.com</code> and password <code>password123</code>), logging in, creating a post, and adding a comment.</li>
     </ul>
 <h1>Technologies</h1>
-    <h3>GitHub</h3>
+<h3>GitHub</h3>
     <p>
         <img src="./assets/images/icons/github.png" width="50px" height="50px" alt="GitHub Icon"><br>
         <a href="https://github.com/" target="_blank">GitHub</a> was used to store and manage the project’s source code, track changes, and collaborate on development.
     </p>
-    <h4>How to Use GitHub</h4>
+<h4>How to Use GitHub</h4>
     <p>
         Create a repository on GitHub, clone it to your local machine using <code>git clone [URL]</code>, and push changes with <code>git add .</code>, <code>git commit -m "message"</code>, and <code>git push origin main</code>. Use branches for features and pull requests for collaboration.
     </p>
-    <h4>How It’s Used in First Forum</h4>
+<h4>How It’s Used in First Forum</h4>
     <p>
         GitHub hosted the project repository, allowing version control for both frontend (HTML, CSS, JavaScript) and backend (C# ASP.NET Core) files. It also enabled deployment of the frontend via GitHub Pages.
     </p>
@@ -59,11 +56,11 @@
         <img src="./assets/images/icons/visualstudio.png" width="50px" height="50px" alt="Visual Studio Icon"><br>
         <a href="https://visualstudio.microsoft.com/" target="_blank">Visual Studio</a> was used as the primary IDE for developing the ASP.NET Core backend.
     </p>
-    <h4>How to Use Visual Studio</h4>
+<h4>How to Use Visual Studio</h4>
     <p>
         Install Visual Studio from <a href="https://visualstudio.microsoft.com/" target="_blank">visualstudio.microsoft.com</a>, open the <code>ForumApp.csproj</code> file from the <code>backend/ForumApp</code> directory, and use the terminal to run <code>dotnet restore</code> and <code>dotnet run</code>. Use the "Debug" menu to set breakpoints and debug the code.
     </p>
-    <h4>How It’s Used in First Forum</h4>
+<h4>How It’s Used in First Forum</h4>
     <p>
         Visual Studio was used to write, debug, and run the backend API (<code>ForumApp</code>). It managed C# code for controllers (<code>PostsController.cs</code>, <code>CommentsController.cs</code>), models, and the database context, ensuring the API functioned correctly.
     </p>
@@ -73,11 +70,11 @@
         <img src="./assets/images/icons/vscode.png" width="50px" height="50px" alt="VS Code Icon"><br>
         <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> was used to edit and manage the frontend files.
     </p>
-    <h4>How to Use Visual Studio Code</h4>
+<h4>How to Use Visual Studio Code</h4>
     <p>
         Install VS Code from <a href="https://code.visualstudio.com/" target="_blank">code.visualstudio.com</a>, open the <code>frontend</code> directory, and use the terminal to run <code>http-server -p 8080</code>. Install extensions like "Live Server" for previews or "Prettier" for formatting.
     </p>
-    <h4>How It’s Used in First Forum</h4>
+<h4>How It’s Used in First Forum</h4>
     <p>
         VS Code was used to write and edit HTML (<code>index.html</code>, <code>login.html</code>), CSS (<code>style.css</code>), and JavaScript (<code>index.js</code>, <code>login.js</code>) files, providing a smooth workflow with syntax highlighting.
     </p>
@@ -202,8 +199,8 @@
         <details>
         <summary>Contrast Screenshots.</summary>
         <p>
-            <img src="#"><br>
-            <img src="#">
+            <img src="./assets/images/WEBAIM.png"><br>
+            <img src="./assets/images/WEBAIM1.png">
         </p>
         </details><hr>
 <h3>Lighthouse</h3>
